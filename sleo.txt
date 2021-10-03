@@ -1,0 +1,221 @@
+Array
+(
+    [0] => Array
+        (
+            [file] => 
+            [message] => broken link to Prestamos
+        )
+
+    [1] => Array
+        (
+            [file] => 
+            [message] => broken link to Prestamos
+        )
+
+    [2] => Array
+        (
+            [file] => 
+            [message] => broken link to Prestamos
+        )
+
+    [3] => Array
+        (
+            [file] => 
+            [message] => broken link to Prestamos
+        )
+
+    [4] => Array
+        (
+            [file] => 
+            [message] => broken link to Prestamos
+        )
+
+    [5] => Array
+        (
+            [file] => 
+            [message] => broken link to Prestamos
+        )
+
+    [6] => Array
+        (
+            [line] => 23
+            [file] => backend\controllers\LibroController.php
+            [message] => Method behaviors has no parent to inherit from in backend\controllers\LibroController.
+        )
+
+    [7] => Array
+        (
+            [line] => 20
+            [file] => backend\controllers\PrestamoController.php
+            [message] => Method behaviors has no parent to inherit from in backend\controllers\PrestamoController.
+        )
+
+    [8] => Array
+        (
+            [line] => 24
+            [file] => backend\controllers\SiteController.php
+            [message] => Method behaviors has no parent to inherit from in backend\controllers\SiteController.
+        )
+
+    [9] => Array
+        (
+            [line] => 54
+            [file] => backend\controllers\SiteController.php
+            [message] => Method actions has no parent to inherit from in backend\controllers\SiteController.
+        )
+
+    [10] => Array
+        (
+            [line] => 20
+            [file] => backend\controllers\SocioController.php
+            [message] => Method behaviors has no parent to inherit from in backend\controllers\SocioController.
+        )
+
+    [11] => Array
+        (
+            [line] => 23
+            [file] => backend\models\Libro.php
+            [message] => Method tableName has no parent to inherit from in backend\models\Libro.
+        )
+
+    [12] => Array
+        (
+            [line] => 31
+            [file] => backend\models\Libro.php
+            [message] => Method rules has no parent to inherit from in backend\models\Libro.
+        )
+
+    [13] => Array
+        (
+            [line] => 44
+            [file] => backend\models\Libro.php
+            [message] => Method attributeLabels has no parent to inherit from in backend\models\Libro.
+        )
+
+    [14] => Array
+        (
+            [line] => 23
+            [file] => backend\models\Libro.php
+            [message] => Method tableName has no parent to inherit from in backend\models\Libro.
+        )
+
+    [15] => Array
+        (
+            [line] => 31
+            [file] => backend\models\Libro.php
+            [message] => Method rules has no parent to inherit from in backend\models\Libro.
+        )
+
+    [16] => Array
+        (
+            [line] => 44
+            [file] => backend\models\Libro.php
+            [message] => Method attributeLabels has no parent to inherit from in backend\models\Libro.
+        )
+
+    [17] => Array
+        (
+            [line] => 24
+            [file] => backend\models\Prestamo.php
+            [message] => Method tableName has no parent to inherit from in backend\models\Prestamo.
+        )
+
+    [18] => Array
+        (
+            [line] => 32
+            [file] => backend\models\Prestamo.php
+            [message] => Method rules has no parent to inherit from in backend\models\Prestamo.
+        )
+
+    [19] => Array
+        (
+            [line] => 46
+            [file] => backend\models\Prestamo.php
+            [message] => Method attributeLabels has no parent to inherit from in backend\models\Prestamo.
+        )
+
+    [20] => Array
+        (
+            [line] => 24
+            [file] => backend\models\Prestamo.php
+            [message] => Method tableName has no parent to inherit from in backend\models\Prestamo.
+        )
+
+    [21] => Array
+        (
+            [line] => 32
+            [file] => backend\models\Prestamo.php
+            [message] => Method rules has no parent to inherit from in backend\models\Prestamo.
+        )
+
+    [22] => Array
+        (
+            [line] => 46
+            [file] => backend\models\Prestamo.php
+            [message] => Method attributeLabels has no parent to inherit from in backend\models\Prestamo.
+        )
+
+    [23] => Array
+        (
+            [line] => 21
+            [file] => backend\models\Socio.php
+            [message] => Method tableName has no parent to inherit from in backend\models\Socio.
+        )
+
+    [24] => Array
+        (
+            [line] => 29
+            [file] => backend\models\Socio.php
+            [message] => Method rules has no parent to inherit from in backend\models\Socio.
+        )
+
+    [25] => Array
+        (
+            [line] => 41
+            [file] => backend\models\Socio.php
+            [message] => Method attributeLabels has no parent to inherit from in backend\models\Socio.
+        )
+
+    [26] => Array
+        (
+            [line] => 21
+            [file] => backend\models\Socio.php
+            [message] => Method tableName has no parent to inherit from in backend\models\Socio.
+        )
+
+    [27] => Array
+        (
+            [line] => 29
+            [file] => backend\models\Socio.php
+            [message] => Method rules has no parent to inherit from in backend\models\Socio.
+        )
+
+    [28] => Array
+        (
+            [line] => 41
+            [file] => backend\models\Socio.php
+            [message] => Method attributeLabels has no parent to inherit from in backend\models\Socio.
+        )
+
+    [29] => Array
+        (
+            [line] => 29
+            [file] => backend\models\search\LibroSearch.php
+            [message] => Method scenarios has no parent to inherit from in backend\models\search\LibroSearch.
+        )
+
+    [30] => Array
+        (
+            [line] => 28
+            [file] => backend\models\search\PrestamoSearch.php
+            [message] => Method scenarios has no parent to inherit from in backend\models\search\PrestamoSearch.
+        )
+
+    [31] => Array
+        (
+            [line] => 28
+            [file] => backend\models\search\SocioSearch.php
+            [message] => Method scenarios has no parent to inherit from in backend\models\search\SocioSearch.
+        )
+
+)
